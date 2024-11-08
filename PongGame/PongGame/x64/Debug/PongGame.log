@@ -1,0 +1,2 @@
+﻿  PongGame.cpp
+C:\Users\system8.IGUMO\Desktop\PongGame\PongGame.cpp(5,10): error C1083: Не удается открыть файл включение: raylib.h: No such file or directory,
